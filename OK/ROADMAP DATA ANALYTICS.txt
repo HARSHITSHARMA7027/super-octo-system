@@ -1,0 +1,124 @@
+Data Analytics Roadmap ⚡👀
+|
+|-- Fundamentals
+|   |-- Mathematics
+|   |   |-- Descriptive Statistics
+|   |   |-- Inferential Statistics
+|   |   |-- Probability Theory
+|   |
+|   |-- Programming
+|   |   |-- Python (Focus on Libraries like Pandas, NumPy)
+|   |   |-- R (For Statistical Analysis)
+|   |   |-- SQL (For Data Extraction)
+|
+|-- Data Collection and Storage
+|   |-- Data Sources
+|   |   |-- APIs
+|   |   |-- Web Scraping
+|   |   |-- Databases
+|   |
+|   |-- Data Storage
+|   |   |-- Relational Databases (MySQL, PostgreSQL)
+|   |   |-- NoSQL Databases (MongoDB, Cassandra)
+|   |   |-- Data Lakes and Warehousing (Snowflake, Redshift)
+|
+|-- Data Cleaning and Preparation
+|   |-- Handling Missing Data
+|   |-- Data Transformation
+|   |-- Data Normalization and Standardization
+|   |-- Outlier Detection
+|
+|-- Exploratory Data Analysis (EDA)
+|   |-- Data Visualization Tools
+|   |   |-- Matplotlib
+|   |   |-- Seaborn
+|   |   |-- ggplot2
+|   |
+|   |-- Identifying Trends and Patterns
+|   |-- Correlation Analysis
+|
+|-- Advanced Analytics
+|   |-- Predictive Analytics (Regression, Forecasting)
+|   |-- Prescriptive Analytics (Optimization Models)
+|   |-- Segmentation (Clustering Techniques)
+|   |-- Sentiment Analysis (Text Data)
+|
+|-- Data Visualization and Reporting
+|   |-- Visualization Tools
+|   |   |-- Power BI
+|   |   |-- Tableau
+|   |   |-- Google Data Studio
+|   |
+|   |-- Dashboard Design
+|   |-- Interactive Visualizations
+|   |-- Storytelling with Data
+|
+|-- Business Intelligence (BI)
+|   |-- KPI Design and Implementation
+|   |-- Decision-Making Frameworks
+|   |-- Industry-Specific Use Cases (Finance, Marketing, HR)
+|
+|-- Big Data Analytics
+|   |-- Tools and Frameworks
+|   |   |-- Hadoop
+|   |   |-- Apache Spark
+|   |
+|   |-- Real-Time Data Processing
+|   |-- Stream Analytics (Kafka, Flink)
+|
+|-- Domain Knowledge
+|   |-- Industry Applications
+|   |   |-- E-commerce
+|   |   |-- Healthcare
+|   |   |-- Supply Chain
+|
+|-- Ethical Data Usage
+|   |-- Data Privacy Regulations (GDPR, CCPA)
+|   |-- Bias Mitigation in Analysis
+|   |-- Transparency in Reporting
+
+Free Resources to learn Data Analytics skills👇👇
+
+1. SQL
+
+https://mode.com/sql-tutorial/introduction-to-sql
+
+https://t.me/sqlspecialist/738
+
+2. Python
+
+https://www.learnpython.org/
+
+https://t.me/pythondevelopersindia/873
+
+https://bit.ly/3T7y4ta
+
+https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial
+
+3. R
+
+https://datacamp.pxf.io/vPyB4L
+
+4. Data Structures
+
+https://leetcode.com/study-plan/data-structure/
+
+https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+
+5. Data Visualization 
+
+https://www.freecodecamp.org/learn/data-visualization/
+
+https://t.me/Data_Visual/2
+
+https://www.tableau.com/learn/training/20223
+
+https://www.workout-wednesday.com/power-bi-challenges/
+
+6. Excel
+
+https://excel-practice-online.com/
+
+https://t.me/excel_data
+
+https://www.w3schools.com/EXCEL/index.php
